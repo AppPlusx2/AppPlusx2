@@ -4,10 +4,10 @@
 
 <p align='left'>We are working hard to publish regurarly Free Flutter Resources for all the learning geeks and experienced developers out there :blue_heart:</p>
 
-### How about you send us new app ideas and contribute to the project ?
+### want to contribute? contact us
 :point_right: [![Gmail Badge](https://img.shields.io/badge/-hello@appplusplus.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hello@appplusplus.com)](mailto:hello@appplusplus.com) 
 
-### Don't ever miss an update on incoming New Open Source Repositories
+### Follow us on social and never miss an update
 :point_right: [![Twitter Badge](https://img.shields.io/badge/-AppPlusx2-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AppPlusx2/)](https://www.twitter.com/AppPlusx2/) 
 
 ### Fuel our geeks with some good quality coffes
