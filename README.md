@@ -7,7 +7,7 @@
 ### How about you send us new app ideas and contribute to the project ?
 :point_right: [![Gmail Badge](https://img.shields.io/badge/-hello@appplusplus.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hello@appplusplus.com)](mailto:hello@appplusplus.com) 
 
-### Don't ever miss an update on incoming new open source repositoreis
+### Don't ever miss an update on incoming New Open Source Repositories
 :point_right: [![Twitter Badge](https://img.shields.io/badge/-AppPlusx2-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AppPlusx2/)](https://www.twitter.com/AppPlusx2/) 
 
 ### Fuel our geeks with some good quality coffes
