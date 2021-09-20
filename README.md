@@ -1,6 +1,6 @@
 # Hey 👋 this is the App++ Open Source Account
 
-![App++](https://github.com/AppPlusx2/AppPlusx2/blob/main/banner.png)
+![App++](https://github.com/AppPlusx2/AppPlusx2/blob/main/banner2.png)
 
 <p align='left'>We are working hard to publish regurarly Free Flutter Resources for all the learning geeks and experienced developers out there :blue_heart:</p>
 
