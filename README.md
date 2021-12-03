@@ -1,9 +1,9 @@
-# Hey 👋 this is the App++ Open Source Account
+# Hey 👋 this is the App++ GitHub Account
 
 ![App++](https://github.com/AppPlusx2/AppPlusx2/blob/main/banner2.png)
-
+<!--
 <p align='left'>We are working hard to publish regurarly Free Flutter Resources for all the learning geeks and experienced developers out there :blue_heart:</p>
-
+-->
 ### Want to contribute? contact us
 :point_right: [![Gmail Badge](https://img.shields.io/badge/-hello@appplusplus.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hello@appplusplus.com)](mailto:hello@appplusplus.com) 
 
